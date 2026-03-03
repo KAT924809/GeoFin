@@ -15,4 +15,17 @@ index/
 logs/
 
 # OS junk
-.DS_Store
+.DS_Store 
+
+# Node
+node_modules/
+dist/
+
+# Virtual environment
+venv/
+
+# Vite cache
+.vite/
+
+# Logs
+*.log
